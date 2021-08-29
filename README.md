@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sufi Aurangze Hossain
-- 👀 I’m interested in Machine Learning and Web Development.
-- 🌱 I’m currently learning ML algorithms and some web development frameworks.
-- 📫 You can reach me through shossain172125@bscse.uiu.ac.bd
+- 👀 I’m currently trying to develop my skills to prepare myself for the Software Industry.
+- 🌱 I’m currently learning MERN stack.
+- 📫 You can reach me through azhossain.98.ah@gmail.com
 
 <!---
 shossain125/shossain125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
