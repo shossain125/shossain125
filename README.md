@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sufi Aurangze Hossain
-- 👀 I’m currently trying to develop my skills to prepare myself for the Software Industry.
-- 🌱 I’m currently learning MERN stack.
+- 👀 Working as Jr. Software Engineer at Greentech.
+- 🌱 I’m currently learning Android Development.
 - 📫 You can reach me through azhossain.98.ah@gmail.com
 
 <!---
