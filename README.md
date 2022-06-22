@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sufi Aurangze Hossain
-- 👀 Working as Jr. Software Engineer at Greentech.
-- 🌱 I’m currently learning Android Development.
+- 👋 Salaam! I’m Sufi Aurangzeb Hossain
+- 👀 Working as a Jr. Software Engineer at Greentech.
+- 🌱 I’m currently learning working with Native Android Development and Flutter.
 - 📫 You can reach me through azhossain.98.ah@gmail.com
 
 <!---
